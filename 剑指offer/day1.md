@@ -15,7 +15,7 @@
 
 题解：
 
-    ```
+    ```java
         public class Solution {
             public int RectCover(int target) {
                 if(target<=0){
